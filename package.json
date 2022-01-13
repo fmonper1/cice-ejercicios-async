@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cd-educ/ejerciciosJS.git"
+    "url": "git+https://github.com/fmonper1/cice-ejercicios-async.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cd-educ/ejerciciosJS/issues"
+    "url": "https://github.com/fmonper1/cice-ejercicios-async/issues"
   },
-  "homepage": "https://github.com/cd-educ/ejerciciosJS#readme",
+  "homepage": "https://github.com/fmonper1/cice-ejercicios-async#readme",
   "dependencies": {
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
