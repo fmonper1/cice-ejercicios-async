@@ -4,3 +4,4 @@ const obtenerPersonaFake = require("./library");
 const app = async () => {
   obtenerPersonaFake();
 };
+app();
