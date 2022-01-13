@@ -8,7 +8,7 @@ Para ejecutar el ejercicio ejecutamos `node ejercicio_X/app.js` sustituyendo la 
 
 #### 2- Imprimir por consola el chiste extraido usando Promesas
 
-#### 3- Imprimir por consola el chiste extraido usando await
+#### 3- Imprimir por consola el chiste extraido usando Await
 
 #### 4- Imprimir por consola los siguientes datos del pokemon elegido (nombre hardcodeado) usando funciones Callbacks:
 
@@ -20,7 +20,7 @@ Para ejecutar el ejercicio ejecutamos `node ejercicio_X/app.js` sustituyendo la 
 - Nombre
 - Habilidades
 
-#### 6- Imprimir por consola los siguientes datos del pokemon elegido (nombre hardcodeado) usando Promesas
+#### 6- Imprimir por consola los siguientes datos del pokemon elegido (nombre hardcodeado) usando Await
 
 - Nombre
 - Habilidades
@@ -43,7 +43,7 @@ Para ejecutar el ejercicio ejecutamos `node ejercicio_X/app.js` sustituyendo la 
 - Nombre de usuario
 - Password
 
-#### 9- Imprimir por consola los siguientes datos de la persona extraida usando Promesas:
+#### 9- Imprimir por consola los siguientes datos de la persona extraida usando Await:
 
 - Nombre
 - Genero
